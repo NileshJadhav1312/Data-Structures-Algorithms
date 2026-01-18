@@ -22,6 +22,7 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
 | ------- |
@@ -30,4 +31,9 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [2678-number-of-senior-citizens](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/2678-number-of-senior-citizens) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+## Counting
+|  |
+| ------- |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
