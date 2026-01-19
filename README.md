@@ -7,6 +7,7 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2678-number-of-senior-citizens](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/2678-number-of-senior-citizens) |
@@ -26,6 +27,7 @@ All Leetcode Solved question
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
@@ -40,4 +42,8 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
