@@ -36,4 +36,8 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
