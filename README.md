@@ -46,6 +46,7 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -55,4 +56,8 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
