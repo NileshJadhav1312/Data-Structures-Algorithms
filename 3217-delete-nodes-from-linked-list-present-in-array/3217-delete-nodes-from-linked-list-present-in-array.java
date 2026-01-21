@@ -31,7 +31,6 @@ class Solution {
         }
         
         ListNode temp = head;
-        ListNode prev =head;
 
          while (temp != null && temp.next != null)
          {
@@ -50,10 +49,3 @@ class Solution {
     }  
 }
 
-//  while (temp != null && temp.next != null) {
-//             if (set.contains(temp.next.val)) {
-//                 temp.next = temp.next.next; // delete node
-//             } else {
-//                 temp = temp.next; // move forward
-//             }
-//         }
