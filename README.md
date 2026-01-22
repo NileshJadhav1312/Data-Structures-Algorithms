@@ -48,6 +48,7 @@ All Leetcode Solved question
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0203-remove-linked-list-elements) |
@@ -57,6 +58,7 @@ All Leetcode Solved question
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0048-rotate-image) |
 ## Sorting
 |  |
@@ -65,6 +67,7 @@ All Leetcode Solved question
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0234-palindrome-linked-list) |
 ## Stack
