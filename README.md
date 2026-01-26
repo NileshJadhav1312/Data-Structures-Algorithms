@@ -6,6 +6,7 @@ All Leetcode Solved question
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
@@ -27,6 +28,7 @@ All Leetcode Solved question
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0141-linked-list-cycle) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
