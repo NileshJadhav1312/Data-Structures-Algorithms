@@ -14,7 +14,10 @@ public class Solution {
      {
         HashSet<ListNode> set = new HashSet<>();
         ListNode temp=head;
-
+         if (head == null || head.next == null)
+         {
+            return null;
+        }
         while(temp!=null)  //actuallly in temp varibale the hashcode of that node will be store 
         {
            if(set.contains(temp))
@@ -32,6 +35,10 @@ public class Solution {
 }
 
 
+// public class Solution {
+//     public ListNode detectCycle(ListNode head)
+//      {
+        
 // if (head == null || head.next == null) {
 //             return null;
 //         }
@@ -54,4 +61,7 @@ public class Solution {
 //             }
 //         }
 
-//         return null;
+//         return null;   
+//     }
+// }
+
