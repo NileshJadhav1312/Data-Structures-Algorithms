@@ -82,14 +82,17 @@ All Leetcode Solved question
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
