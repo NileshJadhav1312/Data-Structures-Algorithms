@@ -33,6 +33,7 @@ All Leetcode Solved question
 | ------- |
 | [0001-two-sum](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -45,6 +46,7 @@ All Leetcode Solved question
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0076-minimum-window-substring) |
 | [2678-number-of-senior-citizens](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/2678-number-of-senior-citizens) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
@@ -105,6 +107,7 @@ All Leetcode Solved question
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
