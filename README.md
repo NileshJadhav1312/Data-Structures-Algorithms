@@ -14,6 +14,7 @@ All Leetcode Solved question
 | [0209-minimum-size-subarray-sum](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0682-baseball-game](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2678-number-of-senior-citizens](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/2678-number-of-senior-citizens) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -37,6 +38,7 @@ All Leetcode Solved question
 | [0076-minimum-window-substring](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0904-fruit-into-baskets](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
@@ -112,6 +114,7 @@ All Leetcode Solved question
 | [0076-minimum-window-substring](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
