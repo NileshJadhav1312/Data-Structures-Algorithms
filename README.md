@@ -98,11 +98,13 @@ All Leetcode Solved question
 | [0234-palindrome-linked-list](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -133,4 +135,9 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0901-online-stock-span](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
