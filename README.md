@@ -9,6 +9,7 @@ All Leetcode Solved question
 | [0001-two-sum](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
@@ -149,4 +150,12 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
