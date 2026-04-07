@@ -10,6 +10,7 @@ All Leetcode Solved question
 | [0011-container-with-most-water](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
@@ -35,6 +36,7 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0055-jump-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Hash Table
 |  |
@@ -159,6 +161,7 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0055-jump-game) |
 ## Tree
 |  |
 | ------- |
