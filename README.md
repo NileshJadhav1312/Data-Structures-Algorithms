@@ -16,6 +16,7 @@ All Leetcode Solved question
 | [0088-merge-sorted-array](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0713-subarray-product-less-than-k) |
@@ -49,6 +50,7 @@ All Leetcode Solved question
 | [0141-linked-list-cycle](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -141,6 +143,7 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 ## Simulation
 |  |
