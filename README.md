@@ -88,6 +88,7 @@ All Leetcode Solved question
 | ------- |
 | [0002-add-two-numbers](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0202-happy-number) |
 ## Sorting
 |  |
@@ -163,6 +164,7 @@ All Leetcode Solved question
 | ------- |
 | [0053-maximum-subarray](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0198-house-robber) |
 ## Tree
 |  |
@@ -188,4 +190,8 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0078-subsets](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
