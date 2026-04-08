@@ -45,6 +45,7 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0076-minimum-window-substring) |
@@ -63,6 +64,7 @@ All Leetcode Solved question
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0076-minimum-window-substring) |
@@ -136,6 +138,7 @@ All Leetcode Solved question
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
