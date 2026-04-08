@@ -1,26 +1,19 @@
-//import java.util.Arrays;
+import java.util.*;
 
 class Solution {
-    public int[] twoSum(int[] nums, int target)
-     {
-        for (int i = 0; i < nums.length; i++)
-         {
-            for (int j = i + 1; j < nums.length; j++)
-             {
-                if (nums[i] + nums[j] == target) 
-                {
-                    return new int[]{i, j}; // return indices
-                }
-            }
-        }
-        return new int[]{}; // return empty if no pair found
-    }
+    public int[] twoSum(int[] nums, int target) {
+        Map<Integer, Integer> map = new HashMap<>();
 
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-        int arr[] = {1,2,3,4,5,6,7,8,9,10};
-        int result[] = sol.twoSum(arr, 7);
-        
-        System.out.println(Arrays.toString(result));
+        for (int i = 0; i < nums.length; i++) {
+            int complement = target - nums[i];
+
+            if (map.containsKey(complement)) {
+                return new int[]{map.get(complement), i};
+            }
+
+            map.put(nums[i], i);
+        }
+
+        return new int[]{-1, -1}; // not required in LC (always one solution)
     }
 }
