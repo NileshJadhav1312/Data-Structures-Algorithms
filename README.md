@@ -52,6 +52,7 @@ All Leetcode Solved question
 | [0141-linked-list-cycle](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0202-happy-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -68,6 +69,7 @@ All Leetcode Solved question
 | [0008-string-to-integer-atoi](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [2678-number-of-senior-citizens](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/2678-number-of-senior-citizens) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
@@ -142,6 +144,7 @@ All Leetcode Solved question
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
