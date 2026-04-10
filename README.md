@@ -29,6 +29,7 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0142-linked-list-cycle-ii) |
@@ -83,6 +84,7 @@ All Leetcode Solved question
 | [0021-merge-two-sorted-lists](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0142-linked-list-cycle-ii) |
