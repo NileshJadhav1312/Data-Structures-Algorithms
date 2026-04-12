@@ -213,4 +213,8 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
