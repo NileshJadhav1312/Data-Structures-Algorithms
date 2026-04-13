@@ -40,6 +40,7 @@ All Leetcode Solved question
 | [0202-happy-number](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -75,6 +76,7 @@ All Leetcode Solved question
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0844-backspace-string-compare](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0844-backspace-string-compare) |
 | [2678-number-of-senior-citizens](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/2678-number-of-senior-citizens) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
@@ -128,6 +130,7 @@ All Leetcode Solved question
 | [0234-palindrome-linked-list](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -165,6 +168,7 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
