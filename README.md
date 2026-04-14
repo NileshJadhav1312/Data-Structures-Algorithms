@@ -10,6 +10,7 @@ All Leetcode Solved question
 | [0011-container-with-most-water](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0055-jump-game) |
@@ -146,6 +147,7 @@ All Leetcode Solved question
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
