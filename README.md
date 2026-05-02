@@ -107,6 +107,7 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0202-happy-number) |
