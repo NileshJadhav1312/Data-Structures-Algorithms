@@ -43,6 +43,7 @@ All Leetcode Solved question
 | [0234-palindrome-linked-list](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +101,7 @@ All Leetcode Solved question
 | [0203-remove-linked-list-elements](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
