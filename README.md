@@ -7,6 +7,7 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0018-4sum) |
@@ -152,6 +153,7 @@ All Leetcode Solved question
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0713-subarray-product-less-than-k) |
@@ -188,6 +190,7 @@ All Leetcode Solved question
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
