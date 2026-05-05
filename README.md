@@ -77,6 +77,7 @@ All Leetcode Solved question
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
@@ -132,6 +133,7 @@ All Leetcode Solved question
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0234-palindrome-linked-list) |
