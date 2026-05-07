@@ -30,6 +30,7 @@ All Leetcode Solved question
 | [1861-rotating-the-box](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/1861-rotating-the-box) |
 | [2678-number-of-senior-citizens](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/2678-number-of-senior-citizens) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3660-jump-game-ix](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/3660-jump-game-ix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,6 +205,7 @@ All Leetcode Solved question
 | [0055-jump-game](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0198-house-robber) |
+| [3660-jump-game-ix](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/3660-jump-game-ix) |
 ## Tree
 |  |
 | ------- |
