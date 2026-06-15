@@ -248,6 +248,7 @@ All Leetcode Solved question
 | [0181-employees-earning-more-than-their-managers](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0182-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0511-game-play-analysis-i) |
+| [0550-game-play-analysis-iv](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0550-game-play-analysis-iv) |
 ## Trie
 |  |
 | ------- |
