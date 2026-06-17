@@ -92,6 +92,7 @@ All Leetcode Solved question
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/3614-process-string-with-special-operations-ii) |
 ## Counting
 |  |
 | ------- |
@@ -190,6 +191,7 @@ All Leetcode Solved question
 | [0682-baseball-game](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0844-backspace-string-compare) |
 | [3612-process-string-with-special-operations-i](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/3614-process-string-with-special-operations-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
