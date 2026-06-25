@@ -1,0 +1,44 @@
+-- Select tweet IDs only
+SELECT tweet_id
+FROM Tweets
+WHERE LENGTH(content) > 15;
+
+-- LENGTH(content)
+-- Function: Returns the length of a string in BYTES
+-- Syntax: LENGTH(column_name)
+-- Example:
+-- LENGTH('Hello') = 5
+-- LENGTH('नमस्ते') may return more than 6 because Unicode uses multiple bytes
+--
+-- Purpose here:
+-- Find tweets where content length is greater than 15
+--
+-- Similar functions:
+--
+-- 1. CHAR_LENGTH(content)
+--    Returns actual number of characters
+--    Example:
+--    CHAR_LENGTH('Hello') = 5
+--    CHAR_LENGTH('नमस्ते') = 6
+--
+-- 2. CONCAT(str1, str2)
+--    Combines multiple strings
+--    Example:
+--    CONCAT('Hello','World')
+--
+-- 3. SUBSTRING(content,start,length)
+--    Extracts part of a string
+--    Example:
+--    SUBSTRING('Database',1,4) → 'Data'
+--
+-- 4. UPPER(content)
+--    Converts string to uppercase
+--
+-- 5. LOWER(content)
+--    Converts string to lowercase
+--
+-- 6. TRIM(content)
+--    Removes leading/trailing spaces
+--
+-- Condition:
+-- Keep only rows where content length > 15
