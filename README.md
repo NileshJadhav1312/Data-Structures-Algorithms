@@ -28,6 +28,7 @@ All Leetcode Solved question
 | [0904-fruit-into-baskets](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1861-rotating-the-box](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/1861-rotating-the-box) |
+| [2239-find-closest-number-to-zero](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/2239-find-closest-number-to-zero) |
 | [2678-number-of-senior-citizens](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/2678-number-of-senior-citizens) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
