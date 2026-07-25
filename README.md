@@ -125,6 +125,7 @@ All Leetcode Solved question
 | [0048-rotate-image](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0202-happy-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +134,7 @@ All Leetcode Solved question
 | [0056-merge-intervals](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [3536-maximum-product-of-two-digits](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
