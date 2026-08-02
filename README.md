@@ -126,6 +126,7 @@ All Leetcode Solved question
 | [0048-rotate-image](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -146,6 +147,7 @@ All Leetcode Solved question
 | [0024-swap-nodes-in-pairs](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -245,6 +247,7 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [0078-subsets](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
