@@ -128,6 +128,7 @@ All Leetcode Solved question
 | [0202-happy-number](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -306,4 +307,8 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
