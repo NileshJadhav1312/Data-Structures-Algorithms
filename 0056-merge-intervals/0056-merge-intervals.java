@@ -1,27 +1,31 @@
-import java.util.*;
-
 class Solution {
+
     public int[][] merge(int[][] intervals) {
-        if (intervals.length <= 1) return intervals;
 
-        // Step 1: Sort by start time
-        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
-        List<int[]> result = new ArrayList<>();
-        result.add(intervals[0]);
+        int arr[][] = new int[intervals.length][2];
+        int row = 0;
 
-        for (int i = 1; i < intervals.length; i++) {
-            int[] last = result.get(result.size() - 1);
-            int[] curr = intervals[i];
+        for (int i = 0; i < intervals.length; i++) {
 
-            // Step 2: Check overlap
-            if (curr[0] <= last[1]) {
-                last[1] = Math.max(last[1], curr[1]); // merge
-            } else {
-                result.add(curr); // new interval
-            }
+            int start = intervals[i][0];
+            int end = intervals[i][1];
+
+            // Check if next interval overlaps
+            while (i + 1 < intervals.length &&
+                   intervals[i + 1][0] <= end) 
+                   {
+
+                    end = Math.max(end, intervals[i + 1][1]);
+                      i++;
+                    }
+
+            arr[row][0] = start;
+            arr[row][1] = end;
+            row++;
         }
 
-        return result.toArray(new int[result.size()][]);
+        return Arrays.copyOf(arr, row);
     }
 }
