@@ -315,4 +315,8 @@ All Leetcode Solved question
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
