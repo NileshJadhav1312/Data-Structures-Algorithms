@@ -68,6 +68,7 @@ All Leetcode Solved question
 | [0141-linked-list-cycle](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0904-fruit-into-baskets) |
@@ -89,6 +90,7 @@ All Leetcode Solved question
 | [0020-valid-parentheses](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0844-backspace-string-compare) |
 | [2678-number-of-senior-citizens](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/2678-number-of-senior-citizens) |
@@ -99,6 +101,7 @@ All Leetcode Solved question
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/localhost08888/Dats-Structures-Algorithms/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
 |  |
@@ -172,6 +175,7 @@ All Leetcode Solved question
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
