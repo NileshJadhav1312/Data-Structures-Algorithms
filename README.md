@@ -304,6 +304,7 @@ All Leetcode Solved question
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1587-bank-account-summary-ii](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/1667-fix-names-in-a-table) |
