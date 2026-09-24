@@ -312,6 +312,7 @@ All Leetcode Solved question
 | [1683-invalid-tweets](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/1789-primary-department-for-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/NileshJadhav1312/Data-Structures-Algorithms/tree/master/1873-calculate-special-bonus) |
